@@ -27,7 +27,7 @@ label scenario_Harem:
     "This is my mother, her name is Connie, and her friends call her Connie. She lives with just me and my two sisters, since Dad died seven years ago"
     connie "Kiyoshi, You'll be late for school! Get up!"
     kiyoshi "Ok mom, I'm going! Jeez, you're really impatient"
-    connie "Kiyoshi, you have 10 minutes left to get to class, or you'll be late! Get up now!
+    connie "Kiyoshi, you have 10 minutes left to get to class, or you'll be late! Get up now!"
     show kiyoshi a_1 at center, faceleft
     with dissolve
     connie "I've left breakfast for you in the Kitchen"
