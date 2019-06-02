@@ -24,12 +24,13 @@ label scenario_Harem:
     kiyoshi "Yeahh.."
     outfit connie formal
     show connie a_0 at left, faceright with easeinleft
-    "This is my mother, her friends call her Connie, she lives with my two sisters and myself since my facther died seven yeras ago"
-    connie "kiyoshi, You'll be late for school! Get up"
-    kiyoshi "Ok mom i get up"
+    "This is my mother, her name is Connie, and her friends call her Connie. She lives with just me and my two sisters, since Dad died seven years ago"
+    connie "Kiyoshi, You'll be late for school! Get up!"
+    kiyoshi "Ok mom, I'm going! Jeez, you're really impatient"
+    connie "Kiyoshi, you have 10 minutes left to get to class, or you'll be late! Get up now!
     show kiyoshi a_1 at center, faceleft
     with dissolve
-    connie "I have prepared a breakfast for you, it is on the kitchen"
+    connie "I've left breakfast in the Kitchen"
     kiyoshi "Thanks mom!"
     hide kiyoshi with moveoutleft
     scene black
@@ -39,11 +40,13 @@ label scenario_Harem:
     outfit flavia uniform
     show flavia a_1 at center, faceleft
     show natalie a_0 at centerright, faceleft
-    "There are my two lovely sisters, Natalie at right is my little sister and Flavia at left is my big sister from college"
+    "There are my two sisters, Natalie and Flavia. I sometimes wonder if we're related at all, we look too different..."
+    "The bluenette is Natalie, my little sister. She still acts like a 9 year old, even if she's 17"
+    "The blonde bombshell at her right is Flavia, my big sister. She's currently studying Sports Medicine at the Sanfransokyo Community College"
     show kiyoshi a_1 at centerleft, faceright with easeinleft
-    kiyoshi "Hi sisters, don't time to talk, i'm already late"
-    natalie "Like always bro hihi"
-    flavia "Have a nice day"
+    kiyoshi "Hi Flav, hi midget! Don't got time to talk, I'm going to be late!"
+    natalie "Like always bro, Teehee!"
+    flavia "Have a nice day!"
     kiyoshi "You too!"
     hide kiyoshi with moveoutright
     scene black
@@ -51,17 +54,19 @@ label scenario_Harem:
     scene bg main house day
     outfit scarlet casual
     show scarlet a_0 at center, faceleft
-    "On my way to school, i see Scarlet, our next door neighbor"
+    "On my way to school, I saw Scarlet, my next door neighbour. She's a total cutie... Shame she's never been interested in me..."
     scene black
     with dissolve
     scene bg school entrance day
     outfit leona casual
     show leona a_0 at center, faceleft
-    "One of the teachers, Miss Leona, is standing near the entrance"
+    "One of the teachers, Miss Leona, is standing near the entrance. Probably to make sure that nobody that comes late enters scot free."
     show kiyoshi a_1 at centerleft, faceright with easeinleft
     kiyoshi "Hi miss!"
-    leona "Just in time Kiyoshi.. As always.."
-    kiyoshi "Yes miss.."
+    leona "Just in time Kiyoshi...  As always... "
+    kiyoshi "Yes miss..."
+    leona "You should really invest on an alarm clock, because one minute later, and I would have had to put you in detention"
+    kiyoshi "Maybe I will, miss"
     hide kiyoshi with moveoutright
     scene black
     with dissolve
@@ -70,9 +75,9 @@ label scenario_Harem:
     outfit cassie casual_d
     show yui a_0 at center, faceright
     show cassie a_0 at centerright, faceleft
-    "My crush Cassie, the headcheerleader is standing at right, talking with her friend Yui, one of the cheerleader"
+    "My crush Cassie, the head cheerleader is standing right of the entrance door to class, talking with her friend Yui, one of the other Cheerleaders"
     show kiyoshi a_1 at centerleft, faceright with easeinleft
-    "I decide to not talk to them and enter the classroom"
+    "I decided to not talk to them, taking into account my... other attempts, and entered the classroom"
     hide kiyoshi with moveoutright
     scene black
     with dissolve
