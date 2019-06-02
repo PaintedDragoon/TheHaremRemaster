@@ -251,7 +251,7 @@ label scenario_Magic:
             circe "Yeah... Whatever you want!"
             pause 1.0
             "This decision could give me anything I ever wanted... I took some time to think"
-            pause 2.0
+            pause 1.0
             menu:
                 "What should I wish for?"
 
