@@ -24,13 +24,13 @@ label scenario_Harem:
     kiyoshi "Yeah..."
     outfit connie formal
     show connie a_0 at left, faceright with easeinleft
-    "This is my mother, her name is Connie, and her friends call her Connie. She lives with just me and my two sisters, since Dad died seven years ago"
+    "This is my mother, her name is Connie, and her friends call her Connie. She lives with just me and my two sisters, since Dad died seven years ago."
     connie "Kiyoshi, You'll be late for school! Get up!"
-    kiyoshi "Ok mom, I'm going! Jeez, you're really impatient"
+    kiyoshi "Ok mom, I'm going! Jeez, you're really impatient."
     connie "Kiyoshi, you have 10 minutes left to get to class, or you'll be late! Get up now!"
     show kiyoshi a_1 at center, faceleft
     with dissolve
-    connie "I've left breakfast for you in the Kitchen"
+    connie "I've left breakfast for you in the kitchen."
     kiyoshi "Thanks mom!"
     hide kiyoshi with moveoutleft
     scene black
@@ -40,8 +40,7 @@ label scenario_Harem:
     outfit flavia uniform
     show flavia a_1 at center, faceleft
     show natalie a_0 at centerright, faceleft
-    "There are my two sisters, Natalie and Flavia. I sometimes wonder if we're related at all, we look too different..."
-    "The bluenette is Natalie, my little sister. She still acts like a 9 year old, even if she's 17"
+    "There are my two sisters, Natalie and Flavia. She still acts like a 9 year old, even if she's 17."
     "The blonde bombshell at her right is Flavia, my big sister. She's currently studying Sports Medicine at the Sanfransokyo Community College"
     show kiyoshi a_1 at centerleft, faceright with easeinleft
     kiyoshi "Hi Flav, hi midget! Don't got time to talk, I'm going to be late!"
@@ -246,7 +245,7 @@ label scenario_Magic:
             circe "What?! You summon a demon, knowing full well that we tend to be grateful for being released, and you question why I would grant you a wish?!"
             show kiyoshi a_1
             kiyoshi "Sorry, I guess?"
-            kiyoshi "Anyhow, will you really grant any wish?
+            kiyoshi "Anyhow, will you really grant any wish?"
             show circe a_5
             circe "Yeah... Whatever you want!"
             pause 1.0
@@ -419,7 +418,7 @@ label scenario_Polymorph:
             "My hair flared out, and became lighter, going from my usual dark shade, to a more reddish one..."
             kiyoshi "I feel something coming..."
             morph do
-           "That would be a pair of breasts, emerging from my chest, and ripping through my shirt. I decided to quickly get naked to avoid that happening anymore"
+            "That would be a pair of breasts, emerging from my chest, and ripping through my shirt. I decided to quickly get naked to avoid that happening anymore"
             kiyoshi "..Mmhhh..."
             kiyoshi "I feel so strange.. It's, like, all my body is changing into something very different.."
             "A final change happened to my body, as I could feel a great pressure in my crotch..."
