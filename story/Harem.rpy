@@ -266,7 +266,7 @@ label scenario_Magic:
                     with hpunch
                     show white as white_flash:
                         additive_flash(0.5)
-                    "She disappeared in a flash of light, leaving only my, and the sounds of the night to keep me company"
+                    "She disappeared in a flash of light, leaving only me, and the sounds of the night to keep me company"
                     "I wonder, did the wish really work?"
                     placeholder
 
@@ -283,7 +283,7 @@ label scenario_Magic:
                     with hpunch
                     show white as white_flash:
                         additive_flash(0.5)
-                    "She disappeared in a flash of light, leaving only my, and the sounds of the night to keep me company"
+                    "She disappeared in a flash of light, leaving only me, and the sounds of the night to keep me company"
                     "I wonder, did the wish really work?"
                     jump scenario_FOSE
 
@@ -301,7 +301,7 @@ label scenario_Magic:
                     with hpunch
                     show white as white_flash:
                         additive_flash(0.5)
-                    "She disappeared in a flash of light, leaving only my, and the sounds of the night to keep me company"
+                    "She disappeared in a flash of light, leaving only me, and the sounds of the night to keep me company"
                     "I wonder, did the wish really work?"
                     jump scenario_Wish
 
