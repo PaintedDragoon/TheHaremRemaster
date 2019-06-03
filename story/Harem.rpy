@@ -40,8 +40,8 @@ label scenario_Harem:
     outfit flavia uniform
     show flavia a_1 at center, faceleft
     show natalie a_0 at centerright, faceleft
-    "There are my two sisters, Natalie and Flavia. She still acts like a 9 year old, even if she's 17."
-    "The blonde bombshell at her right is Flavia, my big sister. She's currently studying Sports Medicine at the Sanfransokyo Community College"
+    "There are my two sisters, Natalie and Flavia. The bluenette is my younger sister, Natalie. She still acts like a 9 year old, even if she's 17."
+    "The blonde bombshell at her right is Flavia, my big sister. She's currently studying Sports Medicine at the Sanfransokyo Community College."
     show kiyoshi a_1 at centerleft, faceright with easeinleft
     kiyoshi "Hi Flav, hi midget! Don't got time to talk, I'm going to be late!"
     natalie "Like always bro, Teehee!"
@@ -64,8 +64,8 @@ label scenario_Harem:
     kiyoshi "Hi miss!"
     leona "Just in time Kiyoshi...  As always... "
     kiyoshi "Yes miss..."
-    leona "You should really invest on an alarm clock, because one minute later, and I would have had to put you in detention"
-    kiyoshi "Maybe I will, miss"
+    leona "You should really invest on an alarm clock, because one minute later, and I would have had to put you in detention."
+    kiyoshi "Maybe I will, miss."
     hide kiyoshi with moveoutright
     scene black
     with dissolve
@@ -74,23 +74,23 @@ label scenario_Harem:
     outfit cassie casual_d
     show yui a_0 at center, faceright
     show cassie a_0 at centerright, faceleft
-    "My crush Cassie, the head cheerleader is standing right of the entrance door to class, talking with her friend Yui, one of the other Cheerleaders"
+    "My crush Cassie, the head cheerleader is standing right of the entrance door to class, talking with her friend Yui, one of the other Cheerleaders."
     show kiyoshi a_1 at centerleft, faceright with easeinleft
-    "I decided to not talk to them, taking into account my... other attempts, and entered the classroom"
+    "I decided to not talk to them, taking into account my... other attempts, and entered the classroom."
     hide kiyoshi with moveoutright
     scene black
     with dissolve
     scene bg classroom 3 day
     show sayaka a_1 at center, faceright
     show allison a_0 at centerright, faceleft
-    "Sayaka, And her best friend Allison, were as always, sitting in front of me. They... Do not like me all that much"
+    "Sayaka, And her best friend Allison, were as always, sitting in front of me. They... Do not like me all that much."
     show kiyoshi a_1 at left, faceright with easeinleft
     pause 1.0
     outfit yuuna casual
     show yuuna a_0 at right, faceleft with easeinright
-    "Miss Yuuna, my homeroom teacher came into the room, and the first lesson of the day started"
-    "The time passed to me quite quickly, as if it were mere seconds"
-    "The bell chimed, signaling that it's the end of the first lesson of the day"
+    "Miss Yuuna, my homeroom teacher came into the room, and the first lesson of the day started."
+    "The time passed to me quite quickly, as if it were mere seconds."
+    "The bell chimed, signaling that it's the end of the first lesson of the day."
     "We had a little, 10 minute break, before the next class started."
     hide kiyoshi with moveoutleft
     scene black
@@ -100,12 +100,12 @@ label scenario_Harem:
     show mel b_0 at center, faceleft
     show irene b_0 at centerright, faceleft
     show Harem_catherine a_0 at centerleft, faceright
-    "I decided to go into the hallway, to get some fresh air during the break"
-    "Two girls, Mel and Irene, were talking to the gym teacher, Catherine"
+    "I decided to go into the hallway, to get some fresh air during the break."
+    "Two girls, Mel and Irene, were talking to the gym teacher, Catherine."
     "Mel is the short, and spunky one. I like her, but her accent is a bit of a turn-off. Not that there's anything wrong with country girls..."
     "Irene is the tall one. There's rumours around the school that say that she sometimes goes to the cemetery at night... She likes her goth fashion too much."
     "Catherine, the teacher... Almost nobody knows anything about her. From what I can tell of her, at least, she's a total hottie..."
-    "I looked at my watch. I coudl see that it's almost time to go back to class, so I went back"
+    "I looked at my watch. I coudl see that it's almost time to go back to class, so I went back."
     scene black
     with dissolve
     scene bg classroom 3 day
@@ -117,17 +117,17 @@ label scenario_Harem:
     pause 1.0
     outfit abby suit
     show abby a_0 at right, faceleft with easeinright
-    "Miss Luten, the Economics teacher entered the room, and the next lesson started"
+    "Miss Luten, the Economics teacher entered the room, and the next lesson started."
     "Time passed to me really slowly, I was getting drowned in lessons that were too boring... It's always been said that Abby is not the best of teachers..."
-    "The bell rings,signaling the end of the day"
+    "The bell rings,signaling the end of the day."
     hide kiyoshi with moveoutleft
     scene black
     with dissolve
     scene bg school entrance dusk
     show kiyoshi a_1 at center, faceright with easeinright
-    "It's time to go home"
-    "I was going to go through the usual way, but they were doing renovations on it. I could go through two other paths, that are slightly longer"
-    "I could go straight through the park, on the left of here, or go through the hills that are on the right"
+    "It's time to go home."
+    "I was going to go through the usual way, but they were doing renovations on it. I could go through two other paths, that are slightly longer."
+    "I could go straight through the park, on the left of here, or go through the hills that are on the right."
     menu:
         "I decided to pass by..."
 
@@ -145,41 +145,41 @@ label scenario_Magic:
     outfit kiyoshi casual
     outfit anuja exotic
     show anuja a_2 at centerleft, faceright
-    "I'm on my way to home after school, when I saw this indian girl, in a strange costume"
-    "She look like she is scared of something... There also was a hole in the ground, at her feet"
+    "I'm on my way to home after school, when I saw this indian girl, in a strange costume."
+    "She look like she is scared of something... There also was a hole in the ground, at her feet."
     anuja "I think it's time to finish with you... you caused too much damage to my life..."
     anuja "Farewell, you wretched book!"
     show anuja:
         ease 1.0 yanchor 0.7
-    "After she said that, she threw something small into the hole, and covered it with nearby dirt"
+    "After she said that, she threw something small into the hole, and covered it with nearby dirt."
     show anuja:
         ease 1.0 yanchor 1.0
     anuja "I hope you will forget me, and the people you hurt!"
-    "She say while she throws more dirt on the hole"
+    "She say while she throws more dirt on the hole."
     pause 1.0
     hide anuja with moveoutright
-    "As she finished hiding the hole, she ran away, through the side of the park"
+    "As she finished hiding the hole, she ran away, through the side of the park."
     show kiyoshi a_1 at centerleft, faceright with easeinleft
     "My curiosity is killing me... Nobody would do something like that without a reason, and whatever it was, may be better underground..."
     "But, on the other side... How bad could it be?"
-    "I decided to dig whatever it is she burrowed"
+    "I decided to dig whatever it is she burrowed."
     show kiyoshi:
         ease 1.0 yanchor 0.7
     pause 0.3
     show kiyoshi:
         ease 1.0 yanchor 1.0
     kiyoshi "What? A book?"
-    kiyoshi "It looks strange... Maybe I should take it home, to investigate it"
+    kiyoshi "It looks strange... Maybe I should take it home, to investigate it."
     hide kiyoshi with moveoutleft
-    "The road home wasn't that interesting, just said hi to some friendly neighbours"
+    "The road home wasn't that interesting, just said hi to some friendly neighbours."
     "Sadly, Scarlet didn't notice me... She was almost ignoring me at this point..."
     scene black
     with dissolve
     scene bg main room dark
     show kiyoshi a_1 at centerleft, faceright with easeinleft
-    "After I arrived in my room, I opened the book"
-    "It looked old, the paper worn out, almost like the exact description of a magic book you'd get on a trashy fantasy romance novel, or a perverted visual novel"
-    "The table of contents mentioned three major parts; Alchemy, Summoning, and Dark Magic"
+    "After I arrived in my room, I opened the book."
+    "It looked old, the paper worn out, almost like the exact description of a magic book you'd get on a trashy fantasy romance novel, or a perverted visual novel."
+    "The table of contents mentioned three major parts; Alchemy, Summoning, and Dark Magic."
     menu:
         "Which part of the book should I check out first?"
 
@@ -187,7 +187,7 @@ label scenario_Magic:
             routename "Potions"
             show kiyoshi a_3
             "I read the first chapter of the book..."
-            "It described countless potions, from poisons, to dyes, to actual magical concoctions... If the book is to be trusted"
+            "It described countless potions, from poisons, to dyes, to actual magical concoctions... If the book is to be trusted."
             kiyoshi "There are a lot of recipes for potions in this book..."
             kiyoshi "And the ingredients are easy to find, I probably have everything I need in the kitchen..."
             kiyoshi "What can I lose by trying this out?"
@@ -197,8 +197,8 @@ label scenario_Magic:
             scene bg main kitchen dark
             show kiyoshi a_1 at centerleft, faceright with easeinleft
             "I opened the book, in a random page of the first chapter, it showcased the names and recipes of two specific potions."
-            "The first one, was called the {q}Draft of Infatuation{/q}... Using a thesaurus, I could determine that it probably is a Love potion"
-            "The second one was called the {q}Potion of Polymorph{/q}, and that I didn't have to look up, anyone that has ever watched Henry Porter should know that It's a transformation potion"
+            "The first one, was called the {q}Draft of Infatuation{/q}... Using a thesaurus, I could determine that it probably is a Love potion."
+            "The second one was called the {q}Potion of Polymorph{/q}, and that I didn't have to look up, anyone that has ever watched Henry Porter should know that It's a transformation potion."
             menu:
                 "Which one should I try to make?"
 
@@ -219,7 +219,7 @@ label scenario_Magic:
         "Summoning":
             routename "Summoning"
             show kiyoshi a_3
-            "I opened the second chapter of the book"
+            "I opened the second chapter of the book."
             kiyoshi "There is just a small sentence in a bizarre language..."
             kiyoshi "It says something like {spell}Circe Ngiyakumemeza, woza lapha wenze isifiso sami sibe ngokoqobo{/spell}?"
             with hpunch
@@ -239,7 +239,7 @@ label scenario_Magic:
             circe "I'm here to make one of your wishes come true!"
             pause 1.0
             show kiyoshi a_3
-            kiyoshi "I'm sorry, what.?"
+            kiyoshi "I'm sorry, what?"
             pause 1.0
             show circe a_1
             circe "What?! You summon a demon, knowing full well that we tend to be grateful for being released, and you question why I would grant you a wish?!"
@@ -249,7 +249,7 @@ label scenario_Magic:
             show circe a_5
             circe "Yeah... Whatever you want!"
             pause 1.0
-            "This decision could give me anything I ever wanted... I took some time to think"
+            "This decision could give me anything I ever wanted... I took some time to think."
             pause 1.0
             menu:
                 "What should I wish for?"
@@ -266,7 +266,7 @@ label scenario_Magic:
                     with hpunch
                     show white as white_flash:
                         additive_flash(0.5)
-                    "She disappeared in a flash of light, leaving only me, and the sounds of the night to keep me company"
+                    "She disappeared in a flash of light, leaving only me, and the sounds of the night to keep me company."
                     "I wonder, did the wish really work?"
                     placeholder
 
@@ -283,7 +283,7 @@ label scenario_Magic:
                     with hpunch
                     show white as white_flash:
                         additive_flash(0.5)
-                    "She disappeared in a flash of light, leaving only me, and the sounds of the night to keep me company"
+                    "She disappeared in a flash of light, leaving only me, and the sounds of the night to keep me company."
                     "I wonder, did the wish really work?"
                     jump scenario_FOSE
 
@@ -291,7 +291,7 @@ label scenario_Magic:
                     routename "Wishing Fun"
                     show circe a_3
                     circe "Ah, truly a classic! I can only imagine what you will do, mortal!"
-                    circe "You can grant anywish you want with the words {spell}I wish{/spell}, as to not have me be here to grant every wish"
+                    circe "You can grant anywish you want with the words {spell}I wish{/spell}, as to not have me be here to grant every wish."
                     circe "Have fun! Kyahaha!"
                     with hpunch
                     show white as white_flash:
@@ -301,7 +301,7 @@ label scenario_Magic:
                     with hpunch
                     show white as white_flash:
                         additive_flash(0.5)
-                    "She disappeared in a flash of light, leaving only me, and the sounds of the night to keep me company"
+                    "She disappeared in a flash of light, leaving only me, and the sounds of the night to keep me company."
                     "I wonder, did the wish really work?"
                     jump scenario_Wish
 
@@ -315,16 +315,16 @@ label scenario_Love_Potion:
     "While I prepared the potion, I read the book, to see how it works..."
     nvl clear
     manu "{b}Draft of Infatuation{/b}"
-    manu "Anyone who is't drinks a loveth potion shall falleth in loveth with the first p'rson those gents seeth"
-    manu "This potion's effects art unlimit'd in timeth, the p'rson shall beest in loveth f'rev'r, and ev'r"
-    manu "Requires an av'rage of 8 hours of preparation"
+    manu "Anyone who is't drinks a loveth potion shall falleth in loveth with the first p'rson those gents seeth."
+    manu "This potion's effects art unlimit'd in timeth, the p'rson shall beest in loveth f'rev'r, and ev'r."
+    manu "Requires an av'rage of 8 hours of preparation."
     kiyoshi "Let's do this!"
     pause 1.0
     scene bg main kitchen day
     show kiyoshi a_1 at centerleft
     pause 1.0
     "After some hours rigurously mixing and adding ingredients, and drinking coffee like a madman, to stay awake, I finally finished it..."
-    kiyoshi "I think it's done.."
+    kiyoshi "I think it's done..."
     kiyoshi "But who to test it on?"
     menu:
         "I should try it, but on who?"
@@ -344,23 +344,23 @@ label scenario_Polymorph:
     "While I started preparing the potion, I read the book, to see it's effects..."
     nvl clear
     manu "{b}Potion of polymorph{/b}"
-    manu "Anyone whomst drinks a potion of polym'rph shall transf'rm in a p'rson whose hair hast been did mix with the juice"
-    manu "Thee needeth to putteth the hair in the potion aft'r the preparation, 'r t wonneth't w'rk"
-    manu "This potion's effects art limit'd in timeth, the p'rson shall beest transf'rm'd f'r 6 hours, aft'rwards being transf'rm'd backeth"
-    manu "Require an av'rage of an hour of preparation"
+    manu "Anyone whomst drinks a potion of polym'rph shall transf'rm in a p'rson whose hair hast been did mix with the juice."
+    manu "Thee needeth to putteth the hair in the potion aft'r the preparation, 'r t wonneth't w'rk."
+    manu "This potion's effects art limit'd in timeth, the p'rson shall beest transf'rm'd f'r 6 hours, aft'rwards being transf'rm'd backeth."
+    manu "Require an av'rage of an hour of preparation."
     kiyoshi "Let's do this!"
     pause 2.0
     show kiyoshi a_1
-    "After mixing, mashing, and combining the ingredients of the potion in a way that would make {q}The Crossbreed Princess{/q} blush, I proudly looked at my concoction"
-    kiyoshi "I think it's done"
+    "After mixing, mashing, and combining the ingredients of the potion in a way that would make {q}The Crossbreed Princess{/q} blush, I proudly looked at my concoction."
+    kiyoshi "I think it's done."
     kiyoshi "I should take some hairs from somewhere around the house..."
     menu:
         "But where should I take it from?"
 
         "Take hair from the bathroom":
             "I took some hairs from the brush both of my sisters use... I can't see it quite clearly, so I don't know who it's from..."
-            kiyoshi "Let's take the hair, But just in case, I should try the potion in my bedroom"
-            kiyoshi "Don't want mom to open the door while I turn into her, or something among those lines"
+            kiyoshi "Let's take the hair, But just in case, I should try the potion in my bedroom."
+            kiyoshi "Don't want mom to open the door while I turn into her, or something among those lines."
             hide kiyoshi with moveoutleft
             scene black
             with dissolve
@@ -372,21 +372,21 @@ label scenario_Polymorph:
             kiyoshi "I think it's done, I should test it right away..."
             "I chugged the drink, harder than I've ever chugged a drink before..."
             kiyoshi "Tastes like hair..."
-            "Then something began to happen"
+            "Then something began to happen."
             morph begin magic kiyoshi flavia nude a_4
             kiyoshi "...Ahhh..."
             "The transformation felt better than anything I've ever felt in my life... I could notice my bones shifting, my muscle mass changing, but it caused no pain at all..."
             "My hair flared out, and became lighter, going from my usual dark shade, to a blonde colour..."
             kiyoshi "I feel something coming..."
             morph do
-            "That would be a pair of breasts, emerging from my chest, and ripping through my shirt. I decided to quickly get naked to avoid that happening anymore"
+            "That would be a pair of breasts, emerging from my chest, and ripping through my shirt. I decided to quickly get naked to avoid that happening anymore."
             kiyoshi "..Mmhhh..."
-            kiyoshi "I feel so strange.. It's, like, all my body is changing into something very different.."
+            kiyoshi "I feel so strange.. It's, like, all my body is changing into something very different..."
             "A final change happened to my body, as I could feel a great pressure in my crotch..."
             "I slid my hand down, while moaning in the pleasure of the transformation, to check what was happening..."
             "I was too late, as for when my hand reached, there was nothing there..."
             kiyoshi "Huh?"
-            "Well, nothing was not quite the correct word, as I accidentally discovered when one of my fingers slid into my new vagina"
+            "Well, nothing was not quite the correct word, as I accidentally discovered when one of my fingers slid into my new vagina."
             kiyoshi "...Mmmph!"
             "This felt great! I could have possibly continued for hours on end!"
             "I massaged my slit with my fingers, gently sliding in, and out, at a steady pace..."
@@ -399,16 +399,16 @@ label scenario_Polymorph:
             placeholder
 
         "Take hair from the livingroom":
-            "I found a bunch of red hairs, probably from when mom held the book club meeting this afternoon"
-            kiyoshi "Let's take the hair, But just in case, I should try the potion in my bedroom"
-            kiyoshi "Don't want mom to open the door while I turn into her, or something among those lines"
+            "I found a bunch of red hairs, probably from when mom held the book club meeting this afternoon."
+            kiyoshi "Let's take the hair, But just in case, I should try the potion in my bedroom."
+            kiyoshi "Don't want mom to open the door while I turn into her, or something among those lines."
             hide kiyoshi with moveoutleft
             scene black
             with dissolve
             scene bg main room dark
             show kiyoshi a_1 at centerleft, faceright with easeinleft
             kiyoshi "So I have the hair... Do I just pop it into the potion?"
-            "So I did, and shook it a round for a bit, until the potion started changing colours on it's own"
+            "So I did, and shook it a round for a bit, until the potion started changing colours on it's own."
             kiyoshi "Woah, it's a bit hypnotic..."
             kiyoshi "I think it's done, I should test it right away..."
             "I chugged the drink, harder than I've ever chugged a drink before..."
@@ -418,14 +418,14 @@ label scenario_Polymorph:
             "My hair flared out, and became lighter, going from my usual dark shade, to a more reddish one..."
             kiyoshi "I feel something coming..."
             morph do
-            "That would be a pair of breasts, emerging from my chest, and ripping through my shirt. I decided to quickly get naked to avoid that happening anymore"
+            "That would be a pair of breasts, emerging from my chest, and ripping through my shirt. I decided to quickly get naked to avoid that happening anymore."
             kiyoshi "..Mmhhh..."
-            kiyoshi "I feel so strange.. It's, like, all my body is changing into something very different.."
+            kiyoshi "I feel so strange.. It's, like, all my body is changing into something very different..."
             "A final change happened to my body, as I could feel a great pressure in my crotch..."
             "I slid my hand down, while moaning in the pleasure of the transformation, to check what was happening..."
             "I was too late, as for when my hand reached, there was nothing there..."
             kiyoshi "Huh?"
-            "Well, nothing was not quite the correct word, as I accidentally discovered when one of my fingers slid into my new vagina"
+            "Well, nothing was not quite the correct word, as I accidentally discovered when one of my fingers slid into my new vagina."
             kiyoshi "...Mmmph!"
             "This felt great! I could have possibly continued for hours on end!"
             "I massaged my slit with my fingers, gently sliding in, and out, at a steady pace..."
@@ -459,13 +459,13 @@ label scenario_FOSE:
                 "Maybe a famous singer":
                     routename "Fose Singer"
                     show kiyoshi a_1
-                    "I start the act of self pleasuring... Looking for some leaked pictures of an idol while I start jacking off"
+                    "I start the act of self pleasuring... Looking for some leaked pictures of an idol while I start jacking off."
                     pause 1.0
                     "I some nudes of an idol, called Erin Love, I decide to focus on her perfect, soon to be mine, body..."
                     pause 1.0
                     kiyoshi "Oh fuck... I'm cumming...!"
                     with hpunch
-                    "As I nut, I feel like my soul is being sucked away from my body, exiting through my penis... It feels really weird"
+                    "As I nut, I feel like my soul is being sucked away from my body, exiting through my penis... It feels really weird."
                     outfit Harem_erin swimsuit
                     show Harem_erin a_14:
                         pos (1.2, 0.0)
@@ -474,36 +474,36 @@ label scenario_FOSE:
                     scene black
                     with dissolve
                     scene bg beach shore night
-                    "I find myself being absorbed into the beach, sucked into the fallen body of the Singer"
+                    "I find myself being absorbed into the beach, sucked into the fallen body of the Singer."
                     body faith Harem_erin
                     outfit faith swimsuit
                     show faith a_8 at center
                     show kiyoshiGhost a_1:
                         pos (1.2, 0.0)
                     possess kiyoshi faith a_9
-                    kiyoshi "WOAH!-.."
+                    kiyoshi "WOAH!"
                     pause 1.0
                     show kiyoshi a_7
                     kiyoshi "It worked! I'm her!"
                     show kiyoshi a_6
                     kiyoshi "Woah, my voice.. My voice is beautiful!"
-                    "My voice is very good to hear, but for now, I shift focus to my sexy, and new shape"
+                    "My voice is very good to hear, but for now, I shift focus to my sexy, and new shape."
                     show kiyoshi a_13
-                    "I look at my hands and my breasts, and it look like I'm wearing a bikini.."
+                    "I look at my hands and my breasts, and it look like I'm wearing a bikini..."
                     kiyoshi "I look so sexy like this!"
                     kiyoshi "Let's look lewder!"
-                    "I stripped down, quickly removing both pieces of the bikini"
+                    "I stripped down, quickly removing both pieces of the bikini."
                     outfit kiyoshi nude
                     "I carress my body with my new hands..."
                     show kiyoshi b_6
                     kiyoshi "Everything feels so soft..."
                     show kiyoshi b_5
                     kiyoshi "I love it..."
-                    "Hearing her voice escaping from my lips, giving out moans of pleasure, Is awesome"
+                    "Hearing her voice escaping from my lips, giving out moans of pleasure, Is awesome."
                     pause 1.0
                     show kiyoshi b_6
                     kiyoshi "I think I should explore her life a little bit, I want to see what is like to be a star!"
-                    "Where did she leave her clothes?.."
+                    "Now, where did she leave her clothes?"
                     hide kiyoshi with moveoutleft
                     scene black
                     with dissolve
@@ -515,10 +515,10 @@ label scenario_FOSE:
                     outfit kiyoshi casual
                     show kiyoshi a_7
                     kiyoshi "So I'm a famous sexy Idol thanks to my wish! It's awesome... Anyone who look at me will only see Erin Love!"
-                    "I look another time at {b}my{/b} body, and carress it, squeezing {b}my{/b} breasts in the process"
-                    "I think I should go to {b}my{/b} home.. But where does she even live?.."
-                    "After a quick search on her phone, I found where she lives.."
-                    kiyoshi "Let's go {q}home{/q}"
+                    "I look another time at {b}my{/b} body, and carress it, squeezing {b}my{/b} breasts in the process."
+                    "I think I should go to {b}my{/b} home... But where does she even live?."
+                    "After a quick search on her phone, I found where she lives."
+                    kiyoshi "Let's go {q}home{/q}."
                     scene black
                     with dissolve
                     scene bg katrina livingroom night
@@ -529,35 +529,35 @@ label scenario_FOSE:
                     Harem_amelia "Oh Erin! How are you Honey?"
                     placeholder
 
-                "{s}My crush, Cassie, the head cheerleader{/s}":
+                "{s}My crush, Cassie, the head cheerleader.{/s}":
                     placeholder
 
                 "Look for porn":
                     routename "Fose Porn star"
                     show kiyoshi a_1
-                    "I start to masturbate... looking at some porn at the same time"
+                    "I start to masturbate... looking at some porn at the same time."
                     pause 1.0
                     "I focus on a young sexy actress..."
                     pause 1.0
                     kiyoshi "Oh fuck... Here comes!"
                     with hpunch
-                    "As I start blasting rope, I feel like my soul is being sucked away from my body, through my penis... This feels incredibly weird"
+                    "As I start blasting rope, I feel like my soul is being sucked away from my body, through my penis... This feels incredibly weird."
                     outfit Harem_monica dominatrix
                     show Harem_monica a_2:
                         pos (1.2, 0.0)
                     swap kiyoshi a_5 : a_2, Harem_monica a_2 : a_5
-                    "While I'm being moved, I see a ghost entering my body... Certainly the porn star I nutted to"
+                    "While I'm being moved, I see a ghost entering my body... Certainly the porn star I nutted to."
                     scene black
                     with dissolve
                     scene bg connie bedroom messy dark lights on
-                    "I get sucked  into an apartment"
+                    "I get sucked into an apartment..."
                     body faith Harem_monica
                     outfit faith dominatrix
                     show faith a_5 at center
                     show kiyoshiGhost a_1:
                         pos (1.2, 0.0)
                     possess kiyoshi faith a_2
-                    kiyoshi "WOAH!.."
+                    kiyoshi "WOAH!"
                     pause 1.0
                     show kiyoshi a_9
                     kiyoshi "It worked! I'm her!"
@@ -577,7 +577,7 @@ label scenario_FOSE:
                     kiyoshi "Ermm... Excuse me I don't really feel so good... I should go, bye!"
                     hide kiyoshi with moveoutleft
                     show brad a_4
-                    "As I said that, I ran to the door and went out of the building"
+                    "As I said that, I ran to the door and went out of the building."
                     brad "Eh! Come back!"
                     scene black
                     with dissolve
@@ -594,11 +594,11 @@ label FOSE_Taking_Over:
     show connie a_7:
         pos (1.2, 0.0)
     swap kiyoshi a_5 : a_6, connie a_7 : a_3
-    "While I move, I see a ghost entering my body... But we move too fast, and I can't identify the person... I just see them enter my body"
+    "While I move, I see a ghost entering my body... But we move too fast, and I can't identify the person... I just see them enter my body."
     scene black
     with dissolve
     scene bg leona room dark
-    "I'm moved in the dark and can't see anything.."
+    "I'm moved in the dark and can't see anything..."
     body faith connie
     outfit faith sweater
     show faith a_7 at center
@@ -609,7 +609,7 @@ label FOSE_Taking_Over:
     kiyoshi "What is going on? I fell really weird..."
     pause 1.0
     kiyoshi "Boobs?!..."
-    "I say as I touched my new body.."
+    "I say as I touched my new body..."
     show kiyoshi b_3
     pause 1.0
     "I feel something on my skin, I decide to remove it to have full access to my new body..."
@@ -623,8 +623,8 @@ label FOSE_Taking_Over:
     "I put a finger in my new pussy..."
     kiyoshi "MMmmhhh.... this feels awesome..."
     show kiyoshi b_2
-    "I start to massage my new breasts-.. I've never felt something like this before..."
-    kiyoshi "Fuck yes it feels {b}so{/b} good!..-"
+    "I start to massage my new breasts... I've never felt something like this before..."
+    kiyoshi "Fuck yes it feels {b}so{/b} good!"
     pause 2.0
     "I continue exploring the unexplored about myself, when suddenly..."
     scene bg leona room night
@@ -646,13 +646,13 @@ label scenario_Wish:
         additive_flash(0.2)
     show cassie b_7 at centerright, faceleft
     with dissolve
-    "There is a little flash of light, and Cassie appears in her nightie.."
+    "There is a little flash of light, and Cassie appears in her night gown."
     cassie "Mmhh... What?!..."
     "It seem that she was sleeping..."
     show cassie b_6
     pause 1.0
     show cassie b_3
-    cassie "Kiyoshi?!.. .What the..."
+    cassie "Kiyoshi?! What the...?!"
     "She look at the room but before she can say sanything, I make my second wish."
     kiyoshi "{spell}I wish that Cassie was my slave!{/spell}"
     cassie "What are yo..."
@@ -678,7 +678,7 @@ label scenario_Wish:
     with dissolve
     slave1 "Hi master!"
     slave2 "Hi master!"
-    kiyoshi "Oh fuck! It's a dream come true!.."
+    kiyoshi "Oh fuck! It's a dream come true!"
     pause 1.0
     kiyoshi "{spell}I wish that they were naked!{/spell}"
     show white as white_flash:
@@ -719,7 +719,7 @@ label scenario_Wish:
                     pause 1.2
                     ease 0.2 xpos 0.345
                     repeat
-            cassie "Mmmmfhh...mmph...mmfhhh"
+            cassie "Mmmmfhh...mmph...mmfhhh."
             kiyoshi "Oh yeah!.. Don't stop!"
             show carrie a_7 blush
             show amy b_4 blush
@@ -728,7 +728,7 @@ label scenario_Wish:
             placeholder
 
         "{s}Leave them for now, and wish more stuff{/s}":
-            kiyoshi "Stay here for now"
+            kiyoshi "Stay here for now."
             hide kiyoshi with moveoutleft
             scene black
             with dissolve
@@ -750,7 +750,7 @@ label scenario_Remote:
         xzoom 0.15 yzoom 0.35
         pos (0.90, 0.0)
         linear 2.0 pos (0.75, 0.15 * (16.0 / 9.0) * math.tan(35 * math.pi / 180.0)) xzoom 0.30 yzoom 0.70
-    "I'm on my way to home after school, when I see a meteor in the sky"
+    "I'm on my way to home after school, when I saw a meteor trailing along sky"
     show expression meteor as meteor:
         linear 2.0 pos (0.60, 0.30 * (16.0 / 9.0) * math.tan(35 * math.pi / 180.0)) xzoom 0.45 yzoom 1.05
     show white as white_flash:
@@ -759,24 +759,26 @@ label scenario_Remote:
         linear 2.0 pos (0.45, 0.45 * (16.0 / 9.0) * math.tan(35 * math.pi / 180.0)) xzoom 0.6 yzoom 1.4
     show expression meteor as meteor:
         linear 2.0 pos (0.30, 0.60 * (16.0 / 9.0) * math.tan(35 * math.pi / 180.0)) xzoom 0.75 yzoom 1.75
-    kiyoshi "it look like it come in my direction!.."
+    kiyoshi "It looks like it's coming in my direction!"
     show white as white_flash:
         additive_flash(0.4)
     pause 0.8
     show white as white_flash:
         additive_flash(0.3)
     pause 0.6
-    kiyoshi "I must run!.."
+    kiyoshi "I have to run!"
     show white as white_flash:
         linear 1.2 alpha 1.0
     pause 1.5
     scene white
     with dissolve
-    "But before I knew it, the alien tractor beam had enveloped me and I felt a sudden loss of gravity"
-    "I was afraid but at the same time exited to meet with real aliens"
+    "But before I knew it, something... Activated in the meteor, and a light enveloped. I soon felt a sudden loss of gravity."
+    "I was really afraid, for my life..."
+    "But, on the other hand, I was probably going to meet real aliens!"
+    "I just hope they don't probe me..."
     scene black
     with dissolve
-    "A powerful force then lifted me skywards and everything went blank"
+    "A powerful force then lifted me skywards, and everything went dark."
     pause 2.0
 
     scene bg space command
