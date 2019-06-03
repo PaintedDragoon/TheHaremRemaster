@@ -786,36 +786,39 @@ label scenario_Remote:
     show kiyoshi a_0 at centerright, faceleft
     with dissolve
 
-    "I awoke in what appears to be an alien containment module."
-    "Judging from the various monitoring and medical equipments nearby, I surmise that I am in an alien research vessal."
-    "A sliding door opened. As if responding to my regaining consciousness, and a slender being approach from the distance."
+    "I awoke in what appears to be an alien containment module... I think."
+    "Judging from the various monitoring, and medical equipment nearby, I deduce that I am in a research vessel."
+    "A door slid open, as if responding to my regaining consciousness, and a slender being approach from the distance."
     show serena a_0 at centerleft, faceright with moveinleft
     pause 1.0
     show kiyoshi a_6
-    kiyoshi "WOW! Are you an alien? Because you have just abducted my heart..."
+    kiyoshi "WOAH! Are you an alien?..." 
+    kiyoshi "Because you just abducted my heart..."
+    "Hey, don't blame me, she was cute, AND naked! If I played my cards right, I'd finally lose my virginity, and with an alien, to boot!"
     show serena a_2
-    salien "Hee..."
+    salien "Teehee!"
     "The alien smiled and began to speak."
     show serena a_0
     show kiyoshi a_1
-    salien "Greetings, Terrian. We thank you for the valuable data your examination have provided for our kind"
-    salien "Our Queen Mother, praise be unto her, has also found you most amusing"
-    salien "Therefore, you have made an ideal candidate for the second iteration of our post-examination alien studies program yet on this planet"
+    salien "Greetings, Terrian. We thank you for the valuable data your examination have provided to our kind."
+    salien "Our Queen Mother, praise be unto her, has also found you most amusing."
+    salien "Therefore, you have made an ideal candidate for the second iteration of our post-examination alien studies program yet on this planet!"
     show kiyoshi a_6
-    kiyoshi "What the fuck are you talking about?.. second iteration of what?.."
+    kiyoshi "What the fuck are you talking about? Second iteration of what?"
     show serena a_8
-    salien "I will give you a device, use it in the way you want, we will observe you"
-    salien "And don't forget to read the manual"
+    salien "I will give you a device, use it in whatever way you want, we will observe you... In a not creepy way, of course"
+    salien "And don't forget to read the manual!"
     show kiyoshi a_3
     show serena a_2
-    "I should take the device"
+    "I should take the device."
     show kiyoshi a_1
-    kiyoshi "Very well, I accept this mission"
+    kiyoshi "Very well, I accept this mission... Whatever it is..."
     show serena a_0
-    "The alien then handed me the device and a detailed list of instructions"
-    salien "This is the newest model of the {q}device{/q} as our Queen Mother has requested for your use"
-    salien "Until the experimentation process is over, we will not be allowed to make contact or provide any aid"
-    salien "good evening terrian.. and don't forget to have fun!"
+    "The alien then handed me the device and a detailed booklet, that has {q}Instruction Guide{/q} on the cover."
+    salien "This is the newest model of the {q}device{/q} as our Queen Mother has requested for your use."
+    salien "Until the experimentation process is over, we will not be allowed to make contact or provide any aid."
+    salien "Please, remember to read the guide!"
+    salien "And, Good evening terrian... Don't forget to have fun!"
     show white as white_flash:
         additive_flash(0.4)
     show kiyoshi:
@@ -823,7 +826,7 @@ label scenario_Remote:
     kiyoshi "Wait! At least explain me th...."
     scene black
     with dissolve
-    "Before I knew what was happening, I had been sent back on the ground"
+    "Before I knew what was happening, I had been sent back to the ground."
     "Are the aliens just left me a gift?"
     "A gift that will make my dreams come true."
     pause 2.0
