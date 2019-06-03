@@ -750,7 +750,7 @@ label scenario_Remote:
         xzoom 0.15 yzoom 0.35
         pos (0.90, 0.0)
         linear 2.0 pos (0.75, 0.15 * (16.0 / 9.0) * math.tan(35 * math.pi / 180.0)) xzoom 0.30 yzoom 0.70
-    "I'm on my way to home after school, when i see a meteor in the sky"
+    "I'm on my way to home after school, when I see a meteor in the sky"
     show expression meteor as meteor:
         linear 2.0 pos (0.60, 0.30 * (16.0 / 9.0) * math.tan(35 * math.pi / 180.0)) xzoom 0.45 yzoom 1.05
     show white as white_flash:
@@ -857,15 +857,15 @@ label new_power:
             show holly a_8
             "The jogger become quiet and enter a vegetative state"
             show kiyoshi a_6 at center, faceright with easeinleft
-            "I think i should say something to her"
+            "I think I should say something to her"
             kiyoshi "Count to 10 and continue your jogging!"
             kiyoshi "After that, you will be the slave of the first person you meet"
             "This will be interseting!"
             pause 5.0
-            "I should hide to see the result, while i run i released my hold on her with another press of the command button.."
+            "I should hide to see the result, while I run I released my hold on her with another press of the command button.."
             hide kiyoshi with moveoutleft
             show holly a_3
-            holly "Why have i stopped my jogging?.."
+            holly "Why have I stopped my jogging?.."
             "While she say that, a teenager is coming"
             show riley a_0 at center, faceright with easeinleft
             riley "Hi, miss!.."
@@ -878,10 +878,10 @@ label new_power:
             "She look at him with insistence"
             show holly a_1 blush
             pause 1.0
-            holly "Yes master, i'm alright"
+            holly "Yes master, I'm alright"
             show riley a_4
             riley "Master?.."
-            holly "Yes master, you are now my master and i will do anything you want me to do!.."
+            holly "Yes master, you are now my master and I will do anything you want me to do!.."
             riley "What? Are you joking?"
             pause 1.0
             show riley a_5
@@ -903,21 +903,21 @@ label new_power:
             hide riley with moveoutleft
             hide holly with moveoutleft
             "They run out of the street"
-            "Woaw that was interesting, but i'm tired, i should go sleep for now and test the device tomorrow"
+            "Woaw that was interesting, but I'm tired, I should go sleep for now and test the device tomorrow"
 
             jump Harem_start
 
         "Body swap":
             routename "Swapping test"
             "I should test the body swap, maybe with that jogger and the teenager.."
-            "i should hide"
+            "I should hide"
             hide kiyoshi with moveoutleft
             pause 1.0
             outfit holly track
             show holly a_0 at centerright, faceleft with easeinright
             pause 1.0
             show riley a_0 at centerleft, faceright with easeinleft
-            "When when they get closer, i push the button.."
+            "When when they get closer, I push the button.."
             swap holly a_6 : a_4, riley a_5 : a_2
             holly "What is goi..."
             riley "..."
@@ -954,7 +954,7 @@ label new_power:
             routename "Posessing test"
             "I should test the possession, maybe on that jogger"
             pause 1.0
-            "And i push the button.."
+            "And I push the button.."
             exspirit kiyoshi a_5
             show kiyoshiGhost a_0
             "It worked! I'm a ghost!"
@@ -970,7 +970,7 @@ label new_power:
             pause 1.0
             show kiyoshi a_1 blush
             kiyoshi "It worked!.."
-            "I say as i look at my body.. I wait no time to undress my new body, i don't care if someone see me"
+            "I say as I look at my body.. I wait no time to undress my new body, I don't care if someone see me"
             show kiyoshi a_1 blush
             "As i strip, i caress my soft body with my soft little hands.. each move is pure lust!"
             outfit kiyoshi nude
@@ -978,7 +978,7 @@ label new_power:
             show kiyoshi b_1 blush
             pause 2.0
             show kiyoshi b_2 blush
-            kiyoshi "..mmhhh..I'm become wet.. should i masturbate here?"
+            kiyoshi "..mmhhh..I'm become wet.. should I masturbate here?"
             "heard that feminine voice get out of my mouth make me more exited"
             pause 1.0
             "I'm becoming all wet down there"
@@ -994,7 +994,7 @@ label new_power:
             pause 1.0
             "Yes that was an orgasm! a lot of more powerful than a male orgasm.. Sooo gooooddd.."
             show kiyoshi a_3 blush
-            "I look around me and i see several passerby look at me"
+            "I look around me and I see several passerby look at me"
             "I think it's time to leave"
             exspirit kiyoshi a_5
             show kiyoshiGhost:
@@ -1017,7 +1017,7 @@ label new_power:
             holly "HOLY SHIT WHY AM I NAKED?!"
             hide holly with moveoutleft
             "And she run out of the street"
-            "That was interesting, but i'm tired, i should go sleep and test the device tomorrow"
+            "That was interesting, but I'm tired, I should go sleep and test the device tomorrow"
             "I decide to return to my body and go home"
             hide kiyoshiGhost
 
@@ -1036,7 +1036,7 @@ label new_power:
             "I copy the jogger form as she run by the teenager"
             hide holly with moveoutleft
             pause 1.0
-            "When she pass the corner of the street, i press the button on the teenager"
+            "When she pass the corner of the street, I press the button on the teenager"
             morph begin alien riley holly nude a_5
             riley "..ahhh.."
             riley "WHAT IS GOIND ON?!"
@@ -1057,11 +1057,11 @@ label new_power:
             "He say with his new  sexy feminine voice"
             pause 1.0
             riley "I have boobs..oh yes.."
-            riley "Am i becoming wet?!.. Just awesome"
+            riley "Am I becoming wet?!.. Just awesome"
             show riley a_0 blush
             "He start touching his vagina and his nipples when he see some passerby throwing glance at him"
             show riley a_1 blush
-            riley "I think i should go show this body to my friends! They wiil be so jealous eheh.."
+            riley "I think I should go show this body to my friends! They will be so jealous eheh.."
             "This look so sexy when he say that with his sexy voice"
             pause 1.0
             hide riley with moveoutright
@@ -1193,7 +1193,7 @@ label Remote_success:
     pause 1.0
     outfit allison underwear
     show allison a_0 blush
-    "Allison she remove her clothes, she tanke care to caress her breast sensually.."
+    "Allison she remove her clothes, she took care to caress her breast sensually.."
     accessory allison set braids
     outfit allison nude
     show allison a_0 blush
@@ -1234,7 +1234,7 @@ label Remote_success:
     allison "Ah yes!... thanks lover!"
     outfit allison uniform
     pause 2.0
-    "As Allison is dressed, the two girls run out, i'll check them later for more fun.. ahahahah"
+    "As Allison is dressed, the two girls run out, I'll check them later for more fun.. ahahahah"
     hide sayaka with moveoutleft
     hide allison with moveoutleft
 
@@ -1246,7 +1246,7 @@ label chapter_one:
     kiyoshi "I think two girls is not enough.. I want more!"
     kiyoshi "I want to make my own harem! With this remote it shouldn't be difficult.."
     show kiyoshi a_1
-    kiyoshi "But who should i choose first?"
+    kiyoshi "But who should I choose first?"
     menu:
         "Who should i add to my harem?"
 
@@ -1261,7 +1261,7 @@ label chapter_one:
 
 label chapter_one_Cheerleaders:
     routename "Cheerleaders path"
-    kiyoshi "Oh Cassie! So many time i jerk off to you.. Now you'll make me jerk off with your mouth ahahahah"
+    kiyoshi "Oh Cassie! So many time I jerk off to you.. Now you'll make me jerk off with your mouth ahahahah"
     kiyoshi "I'm coming!"
     hide kiyoshi with moveoutleft
     scene black
@@ -1275,7 +1275,7 @@ label chapter_one_Cheerleaders:
     pause 1.0
     cassie "Kiyoshi? what are you doing here?! It's the GIRL lockerroom!"
     show kiyoshi a_6
-    "I decide to don't answer but i made a mischievous smile as i push the brainwash button"
+    "I decide to don't answer but I made a mischievous smile as I push the brainwash button"
     show cassie a_7
     cassie "WHAT THE FUCK ARE YO..."
     show expression alien_particles(400, 200, 220, mind_scale) as particles:
@@ -1284,15 +1284,15 @@ label chapter_one_Cheerleaders:
         alien_particles_fadeinout(0.75)
     "As the beam touch her, she gently goes into a trance.."
     show cassie a_4
-    kiyoshi "Cassie i think it's time to tell you i have a crush on you!"
-    kiyoshi "So, i want you too to have a crush on me! For now i'll be your crush, your deepest desire, you'll think of me when you'll masturbate!"
-    "I think i'm done with her, so i release her by pressing the button a second time"
+    kiyoshi "Cassie I think it's time to tell you I have a crush on you!"
+    kiyoshi "So, I want you too to have a crush on me! For now I'll be your crush, your deepest desire, you'll think of me when you masturbate!"
+    "I think I'm done with her, so I release her by pressing the button a second time"
     "When she get up, she look at me..."
     pause 1.0
     show cassie a_0 blush
     cassie "Kiyoshi! I'm so glad you are here! How are you?!"
     show kiyoshi a_1
-    kiyoshi "Oh i'm fine.. just thinking about you!"
+    kiyoshi "Oh I'm fine.. just thinking about you!"
     cassie "what a coincidence! I'm just thinking about you too...  I want to show you something.."
     show cassie a_1 blush
     cassie "I think you'll love it!"
@@ -1302,7 +1302,7 @@ label chapter_one_Cheerleaders:
     "She remove her underwear and look at me as a lover.."
     kiyoshi "You are beautiful Cassie! You make me so hard.. Can you release me?"
     show cassie b_1 blush
-    cassie "Fuck yes i'll!"
+    cassie "Fuck yes I'll!"
     show cassie b_1 blush
     "She start to move slowly and seductively in my direction"
     show cassie:
@@ -1327,11 +1327,11 @@ label chapter_one_Cheerleaders:
     "She quickly wrap her lips around the head of my cock and she began to move, she take it deep throat and suck it with her tongue!"
     pause 1.0
     cassie "Mmmmfhh..choooo delichioussssmmfhhh.."
-    "Having my crush suck my dick with so much passion is too much.. i can't keep it anymore"
+    "Having my crush sucking my dick with so much passion is too much.. I can't keep it anymore"
     kiyoshi "Ohhh Cassie!.. I'M CUMMING!.."
     with hpunch
     pause 1.0
-    "Cassie make slow move with her tongue to suck my cum.. she drink it like a dog"
+    "Cassie make slow move with her tongue to suck my cum... she drink it like a dog"
     hide cassie
     show kiyoshi a_1
     show kiyoshi:
@@ -1362,7 +1362,7 @@ label chapter_one_Cheerleaders:
     show yui a_5 at center
     show irene a_5 at centerright
     show mel b_5 at right
-    "Cassie and me are coming at the school gym, i see three of the five cheerleaders practicing here; Yui, Irene and Mel"
+    "Cassie and me are coming at the school gym, I see three of the five cheerleaders practicing here; Yui, Irene and Mel"
     show kiyoshi a_1 at left, faceright with easeinleft
     show cassie b_0 at centerleft, faceright with easeinleft
     cassie "This will be so much fun!"
@@ -1371,38 +1371,38 @@ label chapter_one_Cheerleaders:
         "I Want them now, i'll just brainwash them":
             routename "Cheerleaders brainwashed"
             kiyoshi "I want them now!"
-            "I press the button to brainwash them three at once"
-            "The remote fire a large beam, certainly because i focus three person at once"
+            "I press the button to brainwash them"
+            "The remote fire a large beam, certainly because I focus three person at once"
             show expression alien_particles(400, 200, 220, mind_scale) as particles:
                 xpos placement_of(yui).xpos + 0.0000
                 ypos 0.30
                 alien_particles_fadeinout(0.75)
             show yui a_6
-            "Yui is the first hit by the beam.."
+            "Yui is the first hit by the beam..."
             show expression alien_particles(400, 200, 220, mind_scale) as particles:
                 xpos placement_of(irene).xpos + 0.0000
                 ypos 0.30
                 alien_particles_fadeinout(0.75)
             show irene a_9
-            "Irene the second.."
+            "Irene the second..."
             show expression alien_particles(400, 200, 220, mind_scale) as particles:
                 xpos placement_of(mel).xpos + 0.0000
                 ypos 0.30
                 alien_particles_fadeinout(0.75)
             show mel a_6
-            "And Mel the last one.."
+            "And Mel the last one..."
             kiyoshi "Cheerleaders! You are now at my feet!"
             kiyoshi "You will obey me and Cassie here for now on!"
             cassie "Thanks you so much Kiyoshi.. to let me have them too!"
             kiyoshi "Lovers share what they have eheh.."
             kiyoshi "I think it's time to release them"
-            "As i say that, i press the button again"
+            "As I say that, I press the button again"
             pause 1.0
             show yui a_0 blush
             show mel a_0 blush
             show irene a_0 blush
             "After some seconds, they seem to come back to life!"
-            "They look at us with a smile, i think it worked!"
+            "They look at us with a smile, I think it worked!"
             kiyoshi "How are you girls?"
             show yui a_1 blush
             show mel a_2 blush
@@ -1414,16 +1414,16 @@ label chapter_one_Cheerleaders:
             show mel a_0 blush
             show irene a_1 blush
             kiyoshi "Very good girls!"
-            "What an awesome remote.. just one push and i change someone for the rest of their life.. too awesome!"
+            "What an awesome remote.. just one push and I change someone for the rest of their life.. too awesome!"
             show kiyoshi a_6
-            "I think i should order them something.."
+            "I think I should order them something.."
             kiyoshi "Cheerleaders! I want you to be naked!"
             show yui a_1 blush
             show mel a_2 blush
             show irene a_2 blush
-            yui "Ok, I think i'll love it!"
-            irene "Yes, for you'll do anything.."
-            mel "I should refure but for you kiyoshi.. it's a big YES!"
+            yui "Ok, I think I'll love it!"
+            irene "Yes, for you I'll do anything.."
+            mel "I should refuse but for you kiyoshi.. it's a big YES!"
             show yui a_0 blush
             show mel a_0 blush
             show irene a_0 blush
@@ -1455,15 +1455,15 @@ label chapter_one_Cheerleaders:
 
             jump Cheerleaders_fun
 
-        "I want to have fun, i'll morph myself as their gym teacher":
+        "I want to have fun, I'll morph myself as their gym teacher":
             routename "Becoming the gym teacher"
-            kiyoshi "I think i should become their teacher and use my authority.. that could be interesting"
+            kiyoshi "I think I should become their teacher and use my authority... that could be interesting"
             "I hide behind a door and use the remote on me"
             morph begin alien kiyoshi Harem_catherine nude a_5 blush
             kiyoshi "the feeling is strange... I feel all my body morphing.."
             morph do
             kiyoshi "I feel my dick disappear.. becoming a pussy.. a shaved one eheh!"
-            kiyoshi "It's so strange.. all my perception are changing.."
+            kiyoshi "It's so strange.. all my perception are changing..."
             morph end
             kiyoshi "I think it's finish.."
             "I look at my new body.."
