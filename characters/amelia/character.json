@@ -1,0 +1,14 @@
+{
+    "display_name": "Amelia",
+    "name_color": "#f5e4bc",
+    "scale": 0.89,
+    "voice": "woman",
+    "default_outfit": "casual",
+    "eye_line": 0.0,
+	"poses": {
+		"a": {
+            "facing": "right",
+            "center_width": 335
+		}
+	}
+}
