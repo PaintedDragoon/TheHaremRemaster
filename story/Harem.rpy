@@ -170,6 +170,7 @@ label scenario_Magic:
         ease 1.0 yanchor 1.0
     kiyoshi "What? A book?"
     kiyoshi "It looks strange... Maybe I should take it home, to investigate it."
+    show kiyoshi a_1 at centerleft, faceleft with easeinleft
     hide kiyoshi with moveoutleft
     "The road home wasn't that interesting, just said hi to some friendly neighbours."
     "Sadly, Scarlet didn't notice me... She was almost ignoring me at this point..."
