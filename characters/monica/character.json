@@ -1,0 +1,13 @@
+{
+    "display_name": "Monica",
+    "name_color": "#d77f5c",
+    "scale": 0.9,
+    "voice": "woman",
+    "default_outfit": "casual",
+    "eye_line": 0.0,
+	"poses": {
+        "a": {
+            "center_width": 150
+        }
+	}
+}
