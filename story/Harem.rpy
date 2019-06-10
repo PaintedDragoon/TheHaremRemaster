@@ -413,7 +413,7 @@ label scenario_Polymorph:
             kiyoshi "Woah, it's a bit hypnotic..."
             kiyoshi "I think it's done, I should test it right away..."
             "I chugged the drink, harder than I've ever chugged a drink before..."
-            morph begin magic kiyoshi scarlet nude a_28
+            morph begin magic kiyoshi scarlet nude a_7 blush
             kiyoshi "...Ahhh..."
             "The transformation felt better than anything I've ever felt in my life... I could notice my bones shifting, my muscle mass changing, but it caused no pain at all..."
             "My hair flared out, and became lighter, going from my usual dark shade, to a more reddish one..."
